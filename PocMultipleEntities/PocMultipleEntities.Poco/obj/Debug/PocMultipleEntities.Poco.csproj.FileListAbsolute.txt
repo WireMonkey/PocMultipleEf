@@ -1,0 +1,13 @@
+C:\Users\josh.kofoot\source\repos\PocMultipleEntities\PocMultipleEntities.Poco\bin\Debug\PocMultipleEntities.Poco.dll
+C:\Users\josh.kofoot\source\repos\PocMultipleEntities\PocMultipleEntities.Poco\bin\Debug\PocMultipleEntities.Poco.pdb
+C:\Users\josh.kofoot\source\repos\PocMultipleEntities\PocMultipleEntities.Poco\bin\Debug\Newtonsoft.Json.dll
+C:\Users\josh.kofoot\source\repos\PocMultipleEntities\PocMultipleEntities.Poco\bin\Debug\Newtonsoft.Json.xml
+C:\Users\josh.kofoot\source\repos\PocMultipleEntities\PocMultipleEntities.Poco\obj\Debug\PocMultipleEntities.Poco.csprojResolveAssemblyReference.cache
+C:\Users\josh.kofoot\source\repos\PocMultipleEntities\PocMultipleEntities.Poco\obj\Debug\PocMultipleEntities.Poco.csproj.CoreCompileInputs.cache
+C:\Users\josh.kofoot\source\repos\PocMultipleEntities\PocMultipleEntities.Poco\obj\Debug\PocMultipleEntities.Poco.dll
+C:\Users\josh.kofoot\source\repos\PocMultipleEntities\PocMultipleEntities.Poco\obj\Debug\PocMultipleEntities.Poco.pdb
+C:\Users\josh.kofoot\source\repos\PocMultipleEntities\PocMultipleEntities.Poco\bin\Debug\PostSharp.dll
+C:\Users\josh.kofoot\source\repos\PocMultipleEntities\PocMultipleEntities.Poco\bin\Debug\PostSharp.xml
+C:\Users\josh.kofoot\source\repos\PocMultipleEntities\PocMultipleEntities.Poco\bin\Debug\PocMultipleEntities.Poco.pssym
+C:\Users\josh.kofoot\source\repos\PocMultipleEntities\PocMultipleEntities.Poco\obj\Debug\PocMultipleEntities.Poco.dll.postsharp
+C:\Users\josh.kofoot\source\repos\PocMultipleEntities\PocMultipleEntities.Poco\obj\Debug\PostSharpHost.config
